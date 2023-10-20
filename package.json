@@ -1,5 +1,5 @@
 {
-   "name": "kns-utils",
+   "name": "@knsdev330/node-utils",
    "version": "0.0.1",
    "description": "A simple sh*tty JavaScript utility library",
    "main": "index.js",
@@ -19,7 +19,7 @@
    "license": "ISC",
    "repository": {
       "type": "git",
-      "url": "https://github.com/yourusername/kns-utils"
+      "url": "git+https://github.com/yourusername/kns-utils.git"
    },
    "bugs": {
       "url": "https://github.com/yourusername/kns-utils/issues"
