@@ -1,5 +1,5 @@
 {
-   "name": "@knsdev330/node-utils",
+   "name": "node-utils",
    "version": "0.0.1",
    "description": "A simple sh*tty JavaScript utility library",
    "main": "index.js",
