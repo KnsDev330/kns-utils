@@ -1,12 +1,12 @@
 {
-   "name": "node-utils",
+   "name": "@knsdev330/node-utils",
    "version": "0.0.1",
    "description": "A simple sh*tty JavaScript utility library",
    "main": "index.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "preinstall": "npm run build",
-      "build": "npm tsc",
+      "build": "npx tsc",
       "dev": "pnpm tsc-watch --onSuccess \"node lib/__test/test_index.js\""
    },
    "keywords": [
@@ -19,12 +19,12 @@
    "license": "ISC",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/yourusername/kns-utils.git"
+      "url": "git+https://github.com/KnsDev330/node-utils.git"
    },
    "bugs": {
-      "url": "https://github.com/yourusername/kns-utils/issues"
+      "url": "https://github.com/KnsDev330/node-utils/issues"
    },
-   "homepage": "https://github.com/yourusername/kns-utils",
+   "homepage": "https://github.com/KnsDev330/node-utils",
    "devDependencies": {
       "@types/node": "^20.8.7",
       "tsc-watch": "^6.0.4",
