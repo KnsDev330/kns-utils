@@ -1,0 +1,1 @@
+Just Another One of Those (So-Sh*tty) JS Libraries 💩
