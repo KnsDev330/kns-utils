@@ -7,7 +7,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "preinstall": "npm run build",
       "build": "npm tsc",
-      "dev": "pnpm tsc-watch --onSuccess\"node lib/__test/test_index.js\""
+      "dev": "pnpm tsc-watch --onSuccess \"node lib/__test/test_index.js\""
    },
    "keywords": [
       "sh*tty",
